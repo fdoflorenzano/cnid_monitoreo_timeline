@@ -25,8 +25,9 @@
     <div class="lower_section">
       <div class="row1 matter_menu">
         <span class="tag" v-for="matter in Object.values(matters)" v-bind:class="{
-          notselected: !selected ? false : ( selected.matter.indexOf(matter.id_materia) < 0)
-        }">
+          notselected: ( !selected ? false : ( selected.matter.indexOf(matter.id_materia) < 0))
+          || (selectedMatters.length > 0 ? selectedMatters.indexOf(matter.id_materia) < 0 : false)
+        }" v-on:click="toggleMatter(matter.id_materia)">
           {{ matter.materia}}
         </span>
       </div>
@@ -34,16 +35,18 @@
         <div class="info_panel">
           <div v-if="selected">
             <h4>{{type[selected.type].tipo_norma}}</h4>
-            <h1>{{selected.title}}</h1>
-            <h2>{{selected.name}} </h2>
-            <h2>{{ organisms[selected.ministry].institucion}}</h2>
+            <h2>{{selected.title}}</h2>
+            <h3>{{selected.name}} </h3>
+            <a :href="selected.link">Revisa este articulo</a>
+            <h3>{{ organisms[selected.ministry].institucion}}</h3>
             <h4>{{date.format(date.parse(selected.start_date))}}</h4>
           </div>
         </div>
         <div class="intitution_menu">
           <span class="tag" v-for="organism in Object.values(organisms)" v-bind:class="{
-            notselected: !selected ? false : organism.id_institucion != selected.ministry
-          }">
+            notselected: (!selected ? false : organism.id_institucion != selected.ministry)
+            || selectedInstitution ? selectedInstitution != organism.id_institucion : false
+          }" v-on:click="toggleInstitution(organism.id_institucion)">
             {{ organism.institucion}}
           </span>
         </div>

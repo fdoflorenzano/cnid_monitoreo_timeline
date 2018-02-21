@@ -29,10 +29,14 @@ const vis = new Vue({
         format: d3.timeFormat("%B %d, %Y")
       },
 
+      lines: null,
+
       tooltip: null,
       tooltipelement: null,
       tooltipped: false,
       selected: null,
+      selectedInstitution: null,
+      selectedMatters: [],
 
     }
   },
@@ -121,14 +125,23 @@ const vis = new Vue({
             .attr('y1', this.height / 2)
             .attr('y2', this.height / 2);
 
-          const line_total_length = 200;
+          const line_total_length = 300;
           const gap_size = 10;
+          const max_group_size = d3.max(this.data, d => d.size_group);
+
           const base_height = (this.height - line_total_length) / 2;
           const max_height = base_height + line_total_length;
-          const y1 = d => base_height + ((line_total_length - (d.size_group - 1) * gap_size) / d.size_group + gap_size) * d.i;
-          const y2 = d => base_height + ((line_total_length - (d.size_group - 1) * gap_size) / d.size_group + gap_size) * d.i + (line_total_length - (d.size_group - 1) * gap_size) / d.size_group;
 
-          const lines = this.svg
+          const line_length = (line_total_length - (max_group_size - 1) * gap_size) / max_group_size;
+
+          const y_height = d => (this.height - line_length * d.size_group - gap_size * (d.size_group - 1)) / 2;
+          const y1 = d => y_height(d) + (line_length + gap_size) * d.i;
+          const y2 = d => y1(d) + line_length;
+
+          // const y1 = d => base_height + ((line_total_length - (d.size_group - 1) * gap_size) / d.size_group + gap_size) * d.i;
+          // const y2 = d => base_height + ((line_total_length - (d.size_group - 1) * gap_size) / d.size_group + gap_size) * d.i + (line_total_length - (d.size_group - 1) * gap_size) / d.size_group;
+
+          this.lines = this.svg
             .append('g')
             .attr('class', 'time_points')
             .selectAll('line')
@@ -154,13 +167,21 @@ const vis = new Vue({
             .on('mouseleave', (d, i, ele) => {
               this.tooltipelement = null;
               this.tooltipped = false;
-              d3.select(ele[i])
-                .attr('stroke-width', 6)
-                .attr('stroke', 'black');
+              if (!this.selected || this.selected.id != d.id) {
+                d3.select(ele[i])
+                  .attr('stroke-width', 6)
+                  .attr('stroke', 'black');
+              }
             })
             .on('click', (d, i, ele) => {
+              this.selectedInstitution = null;
+              this.selectedMatters = [];
+              this.applySelection();
               this.selected = this.selected == null ? d :
                 this.selected.id == d.id ? null : d;
+              d3.selectAll(ele)
+                .attr('stroke-width', (_, j) => i == j ? 7 : 6)
+                .attr('stroke', (_, j) => i == j ? 'red' : 'black');
             });
 
           const yearsG = this.svg
@@ -193,7 +214,7 @@ const vis = new Vue({
           this.svg
             .on("mousemove", function () {
               that.fisheye.center(d3.mouse(this));
-              lines
+              that.lines
                 .transition()
                 .duration(75)
                 .attr("x1", d => that.fisheye([that.scale(that.date.parse(d.start_date)), 100])[0])
@@ -211,7 +232,7 @@ const vis = new Vue({
                 .attr('x', d => that.fisheye([that.scale(new Date(d, 1, 1)), 100])[0]);
             })
             .on("mouseleave", function () {
-              lines
+              that.lines
                 .transition()
                 .duration(1000)
                 .attr('x1', d => that.scale(that.date.parse(d.start_date)))
@@ -233,7 +254,31 @@ const vis = new Vue({
         });
     },
     resize() {},
-    applySelection() {}
+    applySelection() {
+
+      const institutionCondition = d => !this.selectedInstitution || d.ministry == this.selectedInstitution;
+      const matterCondition = d => arrayContainsArray(d.matter, this.selectedMatters);
+      this.lines
+        .attr('stroke', 'black')
+        .attr('opacity', d => (matterCondition(d) && institutionCondition(d)) ? 1 : 0.2)
+
+    },
+    toggleInstitution(id) {
+      if (this.selected) this.selected = null;
+      this.selectedInstitution = this.selectedInstitution != id ? id : null;
+      this.applySelection();
+    },
+    toggleMatter(id) {
+      if (this.selected) this.selected = null;
+      const i = this.selectedMatters.indexOf(id);
+      if (i < 0) {
+        this.selectedMatters = [...this.selectedMatters, id];
+      } else {
+        this.selectedMatters.splice(i, 1);
+      }
+      console.log(this.selectedMatters);
+      this.applySelection()
+    },
   },
   watch: {
     windowWidth: function (val) {

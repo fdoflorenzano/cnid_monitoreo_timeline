@@ -66,27 +66,30 @@ div.matter_menu {
     font-family: sourceSemi, 'sans-serif';
 }
 
+.info_panel h2 {
+    font-family: sourceBlack, 'sans-serif';
+}
+
 .row2 div.intitution_menu {
     flex: 1;
     font-family: sourceSemi, 'sans-serif';
 }
 
-.matter_menu .tag {
-    background: magenta;
-    color: white;
+.tag {
     padding: 5px;
     border-radius: 2px;
     margin: 2px;
     display: inline-block;
+    color: white;
+    cursor: pointer;
+}
+
+.matter_menu .tag {
+    background: magenta;
 }
 
 .intitution_menu .tag {
     background: #6330b4;
-    color: white;
-    padding: 5px;
-    border-radius: 2px;
-    margin: 2px;
-    display: inline-block;
 }
 
 .notselected {
