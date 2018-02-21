@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/d3/4.12.2/d3.js' charset='utf-8'></script>
+  <script src='js/fisheye.js' charset='utf-8'></script>
+  <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+  <script src="https://unpkg.com/vue"></script>
+  <script src='js/utils.js' charset='utf-8'></script>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+
+<body>
+  <div id="vis_timeline">
+    <svg :width="width" :height="height" id="container" pointer-events="all">
+    </svg>
+    <div class="info_panel">
+
+    </div>
+    <div class="tooltip" v-bind:class="{appear: tooltipped }">
+      <h4> {{tooltipelement ? tooltipelement.title : ""}}</h4>
+      <p> {{tooltipelement ? date.format(date.parse(tooltipelement.start_date)) : ""}}</p>
+    </div>
+    <div class="lower_section">
+      <div class="row1 matter_menu">
+        <span class="tag" v-for="matter in Object.values(matters)" v-bind:class="{
+          notselected: !selected ? false : ( selected.matter.indexOf(matter.id_materia) < 0)
+        }">
+          {{ matter.materia}}
+        </span>
+      </div>
+      <div class="row2">
+        <div class="info_panel">
+          <div v-if="selected">
+            <h4>{{type[selected.type].tipo_norma}}</h4>
+            <h1>{{selected.title}}</h1>
+            <h2>{{selected.name}} </h2>
+            <h2>{{ organisms[selected.ministry].institucion}}</h2>
+            <h4>{{date.format(date.parse(selected.start_date))}}</h4>
+          </div>
+        </div>
+        <div class="intitution_menu">
+          <span class="tag" v-for="organism in Object.values(organisms)" v-bind:class="{
+            notselected: !selected ? false : organism.id_institucion != selected.ministry
+          }">
+            {{ organism.institucion}}
+          </span>
+        </div>
+      </div>
+    </div>
+
+  </div>
+  <script src="js/script.js"></script>
+</body>
+
+</html>

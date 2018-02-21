@@ -1,0 +1,1203 @@
+{
+    "data": [{
+        "type": "2",
+        "id": "98878",
+        "subsecretary": "",
+        "matter": ["4"],
+        "fase": "1",
+        "name": "Decreto con Fuerza de Ley 237",
+        "link": "https://www.leychile.cl/Consulta/Navegar?idNorma=98878&idParte=0",
+        "start_date": "28/05/1931",
+        "superior_norm": ["1"],
+        "ministry": "24",
+        "title": "Fuentes termales"
+    }, {
+        "type": "1",
+        "id": "197226",
+        "subsecretary": "",
+        "matter": ["5", "8"],
+        "fase": "1",
+        "name": "Decreto 735",
+        "link": "https://www.leychile.cl/Consulta/Navegar?idNorma=197226&idParte=0",
+        "start_date": "19/12/1969",
+        "superior_norm": ["8"],
+        "ministry": "13",
+        "title": "Reglamento de los servicios de agua destinados al consumo humano"
+    }, {
+        "type": "2",
+        "id": "5605",
+        "subsecretary": "",
+        "matter": ["1"],
+        "fase": "1",
+        "name": "Decreto con Fuerza de Ley 1122",
+        "link": "https://www.leychile.cl/Consulta/Navegar?idNorma=5605&idParte=0",
+        "start_date": "29/10/1981",
+        "superior_norm": ["48"],
+        "ministry": "10",
+        "title": "Código de Aguas"
+    }, {
+        "type": "2",
+        "id": "5606",
+        "subsecretary": "",
+        "matter": ["2", "3"],
+        "fase": "1",
+        "name": "Decreto con Fuerza de Ley 1123",
+        "link": "https://www.leychile.cl/Consulta/Navegar?idNorma=5606&idParte=0",
+        "start_date": "21/12/1981",
+        "superior_norm": ["48"],
+        "ministry": "10",
+        "title": "Establece normas sobre ejecución de obras de riego por el Estado."
+    }, {
+        "type": "2",
+        "id": "3752",
+        "subsecretary": "",
+        "matter": ["9"],
+        "fase": "1",
+        "name": "Decreto con Fuerza de Ley 7",
+        "link": "https://www.leychile.cl/Consulta/Navegar?idNorma=3752&idParte=0",
+        "start_date": "24/08/1983",
+        "superior_norm": ["46", "47", "45"],
+        "ministry": "7",
+        "title": "Fija el texto refundido del Decreto Ley N° 1.172  de 1975  que creó la Comisión Nacional de Riego"
+    }, {
+        "type": "1",
+        "id": "10542",
+        "subsecretary": "",
+        "matter": ["9"],
+        "fase": "1",
+        "name": "Decreto 179",
+        "link": "https://www.leychile.cl/Consulta/Navegar?idNorma=10542&idParte=0",
+        "start_date": "16/08/1984",
+        "superior_norm": ["46", "47", "45", "1"],
+        "ministry": "7",
+        "title": "Fija el texto actualizado del Decreto Nº 795  de 1975  que aprobó el reglamento de la Comisión Nacional de Riego"
+    }, {
+        "type": "3",
+        "id": "29855",
+        "subsecretary": "",
+        "matter": ["2", "11"],
+        "fase": "1",
+        "name": "Ley 18450",
+        "link": "https://www.leychile.cl/Consulta/Navegar?idNorma=29855&idParte=0",
+        "start_date": "30/10/1985",
+        "superior_norm": ["#null"],
+        "ministry": "15",
+        "title": "Aprueba normas para el fomento de la inversión privada en obras de riego y drenaje"
+    }, {
+        "type": "2",
+        "id": "4427",
+        "subsecretary": "",
+        "matter": ["5", "7", "10"],
+        "fase": "1",
+        "name": "Decreto con Fuerza de Ley 70",
+        "link": "https://www.leychile.cl/Consulta/Navegar?idNorma=4427&idParte=0",
+        "start_date": "30/12/1988",
+        "superior_norm": ["68", "67"],
+        "ministry": "12",
+        "title": "Ley de Tarifas de los Servicios Sanitarios"
+    }, {
+        "type": "3",
+        "id": "30157",
+        "subsecretary": "",
+        "matter": ["10", "4", "5", "7"],
+        "fase": "1",
+        "name": "Ley 18778",
+        "link": "https://www.leychile.cl/Consulta/Navegar?idNorma=30157&idParte=0",
+        "start_date": "02/02/1989",
+        "superior_norm": ["#null"],
+        "ministry": "4",
+        "title": "Establece subsidio al pago de consumo de agua potable y servicio de alcantarillado de aguas servidas"
+    }, {
+        "type": "2",
+        "id": "5545",
+        "subsecretary": "",
+        "matter": ["1", "4", "5", "6", "7"],
+        "fase": "1",
+        "name": "Decreto con Fuerza de Ley 382",
+        "link": "https://www.leychile.cl/Consulta/Navegar?idNorma=5545&idParte=0",
+        "start_date": "21/06/1989",
+        "superior_norm": ["67"],
+        "ministry": "12",
+        "title": "Ley General de Servicios Sanitarios"
+    }, {
+        "type": "1",
+        "id": "98618",
+        "subsecretary": "27",
+        "matter": ["10", "5", "6", "7"],
+        "fase": "1",
+        "name": "Decreto 453",
+        "link": "https://www.leychile.cl/Consulta/Navegar?idNorma=98618&idParte=0",
+        "start_date": "17/01/1990",
+        "superior_norm": ["10", "1"],
+        "ministry": "7",
+        "title": "Reglamento de la Ley de Tarifas de los Servicios Sanitarios"
+    }, {
+        "type": "3",
+        "id": "30274",
+        "subsecretary": "",
+        "matter": ["6", "9"],
+        "fase": "1",
+        "name": "Ley 18902",
+        "link": "https://www.leychile.cl/Consulta/Navegar?idNorma=30274&idParte=0",
+        "start_date": "27/01/1990",
+        "superior_norm": ["#null"],
+        "ministry": "7",
+        "title": "Crea la Superintendencia de Servicios Sanitarios"
+    }, {
+        "type": "1",
+        "id": "7232",
+        "subsecretary": "",
+        "matter": ["14"],
+        "fase": "1",
+        "name": "Decreto 1",
+        "link": "https://www.leychile.cl/Consulta/Navegar?idNorma=7232&idParte=0",
+        "start_date": "18/11/1992",
+        "superior_norm": ["31", "32", "33", "35", "34", "15", "37", "1"],
+        "ministry": "3",
+        "title": "Reglamento para el control de la contaminación acuática"
+    }, {
+        "type": "3",
+        "id": "30667",
+        "subsecretary": "",
+        "matter": ["14"],
+        "fase": "1",
+        "name": "Ley 19300",
+        "link": "https://www.leychile.cl/Consulta/Navegar?idNorma=30667&idParte=0",
+        "start_date": "09/03/1994",
+        "superior_norm": ["#null"],
+        "ministry": "5",
+        "title": "Ley de bases generales del medio ambiente"
+    }, {
+        "type": "1",
+        "id": "11938",
+        "subsecretary": "",
+        "matter": ["2", "3", "13", "1"],
+        "fase": "1",
+        "name": "Decreto 285",
+        "link": "https://www.leychile.cl/Consulta/Navegar?idNorma=11938&idParte=0",
+        "start_date": "11/01/1995",
+        "superior_norm": ["1", "45"],
+        "ministry": "12",
+        "title": "Reglamenta el procedimiento para la aplicación del Decreto con Fuerza de Ley Nº 1.123  de 1984  sobre ejecución de obras de riego por el Estado"
+    }, {
+        "type": "1",
+        "id": "73577",
+        "subsecretary": "",
+        "matter": ["4", "8"],
+        "fase": "1",
+        "name": "Decreto 106",
+        "link": "https://www.leychile.cl/Consulta/Navegar?idNorma=73577&idParte=0",
+        "start_date": "14/06/1997",
+        "superior_norm": ["39", "8", "44", "1"],
+        "ministry": "13",
+        "title": "Reglamento de aguas minerales"
+    }, {
+        "type": "3",
+        "id": "76725",
+        "subsecretary": "",
+        "matter": ["7", "6"],
+        "fase": "1",
+        "name": "Ley 19525",
+        "link": "https://www.leychile.cl/Consulta/Navegar?idNorma=76725&idParte=0",
+        "start_date": "10/11/1997",
+        "superior_norm": ["#null"],
+        "ministry": "12",
+        "title": "Regula sistemas de evacuación y drenaje de aguas lluvias"
+    }, {
+        "type": "1",
+        "id": "121229",
+        "subsecretary": "",
+        "matter": ["10", "5", "7"],
+        "fase": "1",
+        "name": "Decreto 195",
+        "link": "https://www.leychile.cl/Consulta/Navegar?idNorma=121229&idParte=0",
+        "start_date": "17/07/1998",
+        "superior_norm": ["59", "41", "42"],
+        "ministry": "4",
+        "title": "Reglamento de la ley de subsidio al pago de consumo de agua potable y servicio de alcantarillado de aguas servidas"
+    }, {
+        "type": "1",
+        "id": "121486",
+        "subsecretary": "",
+        "matter": ["12", "14"],
+        "fase": "1",
+        "name": "Decreto 609",
+        "link": "https://www.leychile.cl/Consulta/Navegar?idNorma=121486&idParte=0",
+        "start_date": "20/07/1998",
+        "superior_norm": ["1", "8", "9", "10", "11", "5", "13", "14"],
+        "ministry": "12",
+        "title": "Establece las norma de emisión para la regulación de contaminantes asociados a las descargas de residuos industriales líquidos a sistemas de alcantarillado"
+    }, {
+        "type": "1",
+        "id": "121902",
+        "subsecretary": "",
+        "matter": ["1"],
+        "fase": "1",
+        "name": "Decreto 1220",
+        "link": "https://www.leychile.cl/Consulta/Navegar?idNorma=121902&idParte=0",
+        "start_date": "25/07/1998",
+        "superior_norm": ["1", "36", "3"],
+        "ministry": "12",
+        "title": "Reglamento del catastro público de aguas"
+    }, {
+        "type": "1",
+        "id": "182637",
+        "subsecretary": "",
+        "matter": ["14"],
+        "fase": "1",
+        "name": "Decreto 90",
+        "link": "https://www.leychile.cl/Consulta/Navegar?idNorma=182637&idParte=0",
+        "start_date": "07/03/2001",
+        "superior_norm": ["1", "6", "7", "8", "15", "16", "5"],
+        "ministry": "5",
+        "title": "Establece norma de emisión para la regulación de contaminantes asociados a las descargas de residuos líquidos a aguas marinas y continentales superficiales"
+    }, {
+        "type": "1",
+        "id": "186251",
+        "subsecretary": "27",
+        "matter": ["9", "10", "11"],
+        "fase": "1",
+        "name": "Decreto 385",
+        "link": "https://www.leychile.cl/Consulta/Navegar?idNorma=186251&idParte=0",
+        "start_date": "08/06/2001",
+        "superior_norm": ["1", "10", "9", "61"],
+        "ministry": "7",
+        "title": "Reglamento para designación y funcionamiento de comisiones de expertos que intervienen en los procesos de fijación de tarifas de los concesionarios"
+    }, {
+        "type": "1",
+        "id": "193174",
+        "subsecretary": "",
+        "matter": ["12"],
+        "fase": "1",
+        "name": "Decreto 1305",
+        "link": "https://www.leychile.cl/Consulta/Navegar?idNorma=193174&idParte=0",
+        "start_date": "29/12/2001",
+        "superior_norm": ["1", "9"],
+        "ministry": "12",
+        "title": "Reglamento de enajenación forzada de acciones de las concesionarias"
+    }, {
+        "type": "3",
+        "id": "201917",
+        "subsecretary": "",
+        "matter": ["6", "9"],
+        "fase": "1",
+        "name": "Ley 19821",
+        "link": "https://www.leychile.cl/Consulta/Navegar?idNorma=201917&idParte=0",
+        "start_date": "24/08/2002",
+        "superior_norm": ["7", "16"],
+        "ministry": "12",
+        "title": "Modifica Ley Nº 18.902 y deroga Ley Nº 3.133  en materia de residuos industriales"
+    }, {
+        "type": "1",
+        "id": "203802",
+        "subsecretary": "",
+        "matter": ["3", "15"],
+        "fase": "1",
+        "name": "Decreto 202",
+        "link": "https://www.leychile.cl/Navegar?idNorma=203802&idVersion=2002-10-19",
+        "start_date": "19/10/2002",
+        "superior_norm": ["1"],
+        "ministry": "2",
+        "title": "Promulga el acuerdo para la cooperacion entre el Gobierno de la República de Chile y la Organizacion de las Naciones Unidas para la Educación, la Ciencia y la Cultura (UNESCO), para el establecimiento y puesta en marcha del centro del agua para zonas aridas y semiaridas de america latina y el caribe, su apendice y sus anexos i y ii"
+    }, {
+        "type": "1",
+        "id": "206883",
+        "subsecretary": "",
+        "matter": ["14"],
+        "fase": "1",
+        "name": "Decreto 46",
+        "link": "https://www.leychile.cl/Consulta/Navegar?idNorma=206883&idParte=0",
+        "start_date": "17/01/2003",
+        "superior_norm": ["1", "6", "5"],
+        "ministry": "5",
+        "title": "Norma de emisión de residuos líquidos a aguas subterráneas"
+    }, {
+        "type": "1",
+        "id": "207101",
+        "subsecretary": "",
+        "matter": ["5", "6", "7"],
+        "fase": "1",
+        "name": "Decreto 50",
+        "link": "https://www.leychile.cl/Consulta/Navegar?idNorma=207101&idParte=0",
+        "start_date": "28/01/2003",
+        "superior_norm": ["1", "16", "9"],
+        "ministry": "12",
+        "title": "Reglamento de instalaciones domiciliarias de agua potable y de alcantarillado"
+    }, {
+        "type": "1",
+        "id": "243794",
+        "subsecretary": "",
+        "matter": ["5", "6", "7"],
+        "fase": "1",
+        "name": "Decreto 1199",
+        "link": "https://www.leychile.cl/Consulta/Navegar?idNorma=243794&idParte=0",
+        "start_date": "09/11/2005",
+        "superior_norm": ["1", "9"],
+        "ministry": "12",
+        "title": "Reglamento de concesiones sanitarias"
+    }, {
+        "type": "3",
+        "id": "1010459",
+        "subsecretary": "",
+        "matter": ["9", "14"],
+        "fase": "1",
+        "name": "Ley 20417",
+        "link": "https://www.leychile.cl/Consulta/Navegar?idNorma=1010459&idParte=0",
+        "start_date": "26/01/2010",
+        "superior_norm": ["16"],
+        "ministry": "5",
+        "title": "Crea el Ministerio  el Servicio de Evaluación Ambiental y la Superintendencia del Medio Ambiente"
+    }, {
+        "type": "1",
+        "id": "1011869",
+        "subsecretary": "",
+        "matter": ["14"],
+        "fase": "1",
+        "name": "Decreto 75",
+        "link": "https://www.leychile.cl/Navegar?idNorma=1011869&idVersion=2010-03-19",
+        "start_date": "19/03/2010",
+        "superior_norm": ["1", "6", "3", "82", "18", "5"],
+        "ministry": "5",
+        "title": "Ministerio Secretaría General de la Presidencia establece normas secundarias de calidad ambiental para la protección de las aguas continentales superficiales de la cuenca del Río Serrano"
+    }, {
+        "type": "1",
+        "id": "1031470",
+        "subsecretary": "",
+        "matter": ["9"],
+        "fase": "1",
+        "name": "Decreto 25",
+        "link": "https://www.leychile.cl/Consulta/Navegar?idNorma=1031470&idParte=0",
+        "start_date": "20/10/2011",
+        "superior_norm": ["1", "6", "54", "17"],
+        "ministry": "20",
+        "title": "Reglamento del Consejo Consultivo del Ministerio del Medio Ambiente y de los Consejos Consultivos Regionales del Medio Ambiente"
+    }, {
+        "type": "3",
+        "id": "1041361",
+        "subsecretary": "",
+        "matter": ["6", "9"],
+        "fase": "1",
+        "name": "Ley 20600",
+        "link": "https://www.leychile.cl/Consulta/Navegar?idNorma=1041361&idParte=0",
+        "start_date": "28/06/2012",
+        "superior_norm": ["17"],
+        "ministry": "20",
+        "title": "Crea los Tribunales Ambientales"
+    }, {
+        "type": "1",
+        "id": "1053036",
+        "subsecretary": "",
+        "matter": ["1", "14"],
+        "fase": "1",
+        "name": "Decreto 38",
+        "link": "https://www.leychile.cl/Consulta/Navegar?idNorma=1053036&idParte=0",
+        "start_date": "22/07/2013",
+        "superior_norm": ["1", "2", "6", "17", "4"],
+        "ministry": "20",
+        "title": "Aprueba reglamento para la dictación de normas de calidad ambiental y de emisión"
+    }, {
+        "type": "1",
+        "id": "1053037",
+        "subsecretary": "",
+        "matter": ["14"],
+        "fase": "1",
+        "name": "Decreto 39",
+        "link": "https://www.leychile.cl/Consulta/Navegar?idNorma=1053037&idParte=0",
+        "start_date": "22/07/2013",
+        "superior_norm": ["1", "2", "6", "17", "4"],
+        "ministry": "20",
+        "title": "Reglamento para la dictación de Planes de Prevención y de descontaminación"
+    }, {
+        "type": "1",
+        "id": "1053200",
+        "subsecretary": "",
+        "matter": ["13", "1"],
+        "fase": "1",
+        "name": "Decreto 14",
+        "link": "https://www.leychile.cl/Consulta/Navegar?idNorma=1053200&idParte=0",
+        "start_date": "30/07/2013",
+        "superior_norm": ["1", "2", "3", "4"],
+        "ministry": "20",
+        "title": "Reglamento para determinar el caudal ecológico mínimo"
+    }, {
+        "type": "1",
+        "id": "1053563",
+        "subsecretary": "",
+        "matter": ["1", "11", "13"],
+        "fase": "1",
+        "name": "Decreto 40",
+        "link": "https://www.leychile.cl/Consulta/Navegar?idNorma=1053563&idParte=0",
+        "start_date": "12/08/2013",
+        "superior_norm": ["1", "2", "6", "4"],
+        "ministry": "20",
+        "title": "Reglamento del Sistema de Evaluación de Impacto Ambiental"
+    }, {
+        "type": "1",
+        "id": "1055224",
+        "subsecretary": "",
+        "matter": ["14", "1"],
+        "fase": "1",
+        "name": "Decreto 19",
+        "link": "https://www.leychile.cl/Navegar?idNorma=1055224&idVersion=2013-10-16",
+        "start_date": "16/10/2013",
+        "superior_norm": ["1", "6", "3", "15", "58", "37", "17", "73", "5"],
+        "ministry": "20",
+        "title": "Ministerio del Medio Ambiente establece normas secundarias de calidad ambiental para la protección de las aguas continentales superficiales del Lago Villarrica"
+    }, {
+        "type": "1",
+        "id": "1060095",
+        "subsecretary": "",
+        "matter": ["13", "1"],
+        "fase": "1",
+        "name": "Decreto 203",
+        "link": "https://www.leychile.cl/Navegar?idNorma=1060095&idVersion=2014-03-07",
+        "start_date": "07/03/2014",
+        "superior_norm": ["1", "3", "74", "75", "76", "77", "78", "71", "79"],
+        "ministry": "12",
+        "title": "Aprueba reglamento sobre normas de exploración y explotación de aguas subterráneas"
+    }, {
+        "type": "1",
+        "id": "1063954",
+        "subsecretary": "",
+        "matter": ["1", "14"],
+        "fase": "1",
+        "name": "Decreto 53",
+        "link": "https://www.leychile.cl/Navegar?idNorma=1063954&idVersion=2014-07-04",
+        "start_date": "04/07/2014",
+        "superior_norm": ["1", "6", "17", "18", "3", "12"],
+        "ministry": "20",
+        "title": "Ministerio del Medio Ambiente establece normas secundarias de calidad ambiental para la protección de las aguas continentales superficiales de la cuenca del Río Maipo"
+    }, {
+        "type": "3",
+        "id": "1072727",
+        "subsecretary": "25",
+        "matter": ["14", "15"],
+        "fase": "1",
+        "name": "Ley 20793",
+        "link": "https://www.leychile.cl/Consulta/Navegar?idNorma=1072727&idParte=0",
+        "start_date": "18/12/2014",
+        "superior_norm": ["#null"],
+        "ministry": "1",
+        "title": "Instaura el Día Nacional del Medio Ambiente"
+    }, {
+        "type": "1",
+        "id": "1075367",
+        "subsecretary": "",
+        "matter": ["9"],
+        "fase": "1",
+        "name": "Decreto 62",
+        "link": "https://www.leychile.cl/Consulta/Navegar?idNorma=1075367&idParte=0",
+        "start_date": "12/03/2015",
+        "superior_norm": ["6", "64", "2", "1"],
+        "ministry": "20",
+        "title": "Reglamento Orgánico del Ministerio del Medio Ambiente"
+    }, {
+        "type": "1",
+        "id": "1076527",
+        "subsecretary": "",
+        "matter": ["2", "11"],
+        "fase": "1",
+        "name": "Decreto 95",
+        "link": "https://www.leychile.cl/Navegar?idNorma=1076527&idVersion=2015-04-24",
+        "start_date": "23/04/2015",
+        "superior_norm": ["1", "83", "84", "85", "86", "87"],
+        "ministry": "15",
+        "title": "Aprueba nuevo reglamento de la ley Nº 18.450 de fomento a la inversión privada en obras de riego y drenaje, modificada por la ley Nº 20.705"
+    }, {
+        "type": "1",
+        "id": "1083574",
+        "subsecretary": "",
+        "matter": ["1", "14"],
+        "fase": "1",
+        "name": "Decreto 32",
+        "link": "https://www.leychile.cl/Consulta/Navegar?idNorma=1083574&idParte=0",
+        "start_date": "04/11/2015",
+        "superior_norm": ["1", "2", "6", "4"],
+        "ministry": "20",
+        "title": "Reglamento para la evaluación ambiental estratégica"
+    }, {
+        "type": "1",
+        "id": "1084403",
+        "subsecretary": "",
+        "matter": ["14"],
+        "fase": "1",
+        "name": "Decreto 9",
+        "link": "https://www.leychile.cl/Navegar?idNorma=1084403&idVersion=2015-11-27",
+        "start_date": "27/11/2015",
+        "superior_norm": ["1", "6", "17", "18", "12"],
+        "ministry": "20",
+        "title": "Establece normas secundarias de calidad ambiental para la protección de las aguas continentales superficiales de la cuenca del Río Biobío"
+    }, {
+        "type": "1",
+        "id": "1085618",
+        "subsecretary": "",
+        "matter": ["1", "11"],
+        "fase": "1",
+        "name": "Decreto 50",
+        "link": "https://www.leychile.cl/Navegar?idNorma=1085618&idVersion=2015-12-19",
+        "start_date": "19/12/2015",
+        "superior_norm": ["1", "71", "6", "81", "3"],
+        "ministry": "12",
+        "title": "Aprueba reglamento a que se refiere el Artículo 295 inciso 2º, del Código de Aguas, estableciendo las condiciones técnicas que deberán cumplirse en el proyecto, construcción y operación de las obras hidráulicas identificadas en el Artículo 294 del referido texto legal"
+    }, {
+        "type": "3",
+        "id": "1114175",
+        "subsecretary": "",
+        "matter": ["1"],
+        "fase": "1",
+        "name": "Ley 21064",
+        "link": "https://www.leychile.cl/Navegar?idNorma=1114175",
+        "start_date": "27/01/2018",
+        "superior_norm": ["3"],
+        "ministry": "12",
+        "title": "Introduce modificaciones al marco normativo que rige las aguas en materia de fiscalización y sanciones"
+    }],
+    "dicts": {
+        "organismo": {
+            "12": {
+                "institucion": "Ministerio de Obras Públicas",
+                "id_institucion": "12"
+            },
+            "15": {
+                "institucion": "Ministerio de Agricultura",
+                "id_institucion": "15"
+            },
+            "22": {
+                "institucion": "Ministerio de la Mujer y la Equidad de Género",
+                "id_institucion": "22"
+            },
+            "27": {
+                "institucion": "Subsecretaría de Economía",
+                "id_institucion": "27"
+            },
+            "14": {
+                "institucion": "Ministerio de Vivienda y Urbanismo",
+                "id_institucion": "14"
+            },
+            "17": {
+                "institucion": "Ministerio de Transportes y Telecomunicaciones",
+                "id_institucion": "17"
+            },
+            "2": {
+                "institucion": "Ministerio de Relaciones Exteriores",
+                "id_institucion": "2"
+            },
+            "24": {
+                "institucion": "Ministerio de Bienestar Social",
+                "id_institucion": "24"
+            },
+            "3": {
+                "institucion": "Ministerio de Defensa Nacional",
+                "id_institucion": "3"
+            },
+            "9": {
+                "institucion": "Ministerio de Educación",
+                "id_institucion": "9"
+            },
+            "13": {
+                "institucion": "Ministerio de Salud",
+                "id_institucion": "13"
+            },
+            "29": {
+                "institucion": "Ministerio de Planificación",
+                "id_institucion": "29"
+            },
+            "23": {
+                "institucion": "Consejo Nacional de la Cultura y las Artes",
+                "id_institucion": "23"
+            },
+            "26": {
+                "institucion": "Subsecretaría de Transporte",
+                "id_institucion": "26"
+            },
+            "5": {
+                "institucion": "Ministerio Secretaría General de la Presidencia",
+                "id_institucion": "5"
+            },
+            "28": {
+                "institucion": "Subsecretaría de Pesca",
+                "id_institucion": "28"
+            },
+            "25": {
+                "institucion": "Subsecretaría del Interior",
+                "id_institucion": "25"
+            },
+            "19": {
+                "institucion": "Ministerio de Energía",
+                "id_institucion": "19"
+            },
+            "21": {
+                "institucion": "Ministerio del Deporte",
+                "id_institucion": "21"
+            },
+            "16": {
+                "institucion": "Ministerio de Minería",
+                "id_institucion": "16"
+            },
+            "10": {
+                "institucion": "Ministerio de Justicia y Derechos Humanos",
+                "id_institucion": "10"
+            },
+            "1": {
+                "institucion": "Ministerio del Interior y Seguridad Pública",
+                "id_institucion": "1"
+            },
+            "6": {
+                "institucion": "Ministerio Secretaría General de Gobierno",
+                "id_institucion": "6"
+            },
+            "8": {
+                "institucion": "Ministerio de Desarrollo Social",
+                "id_institucion": "8"
+            },
+            "11": {
+                "institucion": "Ministerio de Trabajo y Previsión Social",
+                "id_institucion": "11"
+            },
+            "4": {
+                "institucion": "Ministerio de Hacienda",
+                "id_institucion": "4"
+            },
+            "18": {
+                "institucion": "Ministerio de Bienes Nacionales",
+                "id_institucion": "18"
+            },
+            "20": {
+                "institucion": "Ministerio del Medio Ambiente",
+                "id_institucion": "20"
+            },
+            "7": {
+                "institucion": "Ministerio de Economía, Fomento y Turismo",
+                "id_institucion": "7"
+            }
+        },
+        "fase": {
+            "1": {
+                "id_fase": "1",
+                "fase": "vigente"
+            }
+        },
+        "norma_superior": {
+            "81": {
+                "id_norma_superior": "81",
+                "norma_superior": "Decreto Supremo Nº 40 de 2012 del Ministerio de Medio Ambiente"
+            },
+            "48": {
+                "id_norma_superior": "48",
+                "norma_superior": "decreto ley 3.549, de 1981"
+            },
+            "38": {
+                "id_norma_superior": "38",
+                "norma_superior": "ley 11.151, de 5 de febrero de 1953"
+            },
+            "92": {
+                "id_norma_superior": "92",
+                "norma_superior": ""
+            },
+            "17": {
+                "id_norma_superior": "17",
+                "norma_superior": "Ley Nº 20.417, Orgánica de la Superintendencia del Medio Ambiente"
+            },
+            "74": {
+                "id_norma_superior": "74",
+                "norma_superior": "Decreto Supremo Nº 1.220 de 1997 del Ministerio de Obras Públicas"
+            },
+            "20": {
+                "id_norma_superior": "20",
+                "norma_superior": "Ley N° 10.336"
+            },
+            "75": {
+                "id_norma_superior": "75",
+                "norma_superior": "Ley\t20.017"
+            },
+            "53": {
+                "id_norma_superior": "53",
+                "norma_superior": "Ley\t18.899"
+            },
+            "18": {
+                "id_norma_superior": "18",
+                "norma_superior": "Ley Nº 18.755, que Establece Normas sobre el Servicio Agrícola y Ganadero"
+            },
+            "89": {
+                "id_norma_superior": "89",
+                "norma_superior": ""
+            },
+            "65": {
+                "id_norma_superior": "65",
+                "norma_superior": "Decreto Supremo Nº 4 de 1992 del Ministerio de Salud"
+            },
+            "83": {
+                "id_norma_superior": "83",
+                "norma_superior": "Decreto con Fuerza de Ley N° 294 de 1960 del Ministerio de Hacienda"
+            },
+            "77": {
+                "id_norma_superior": "77",
+                "norma_superior": "Ley\t20.411"
+            },
+            "61": {
+                "id_norma_superior": "61",
+                "norma_superior": "Decreto Supremo Nº453 de 1989 del Ministerio de Economía"
+            },
+            "80": {
+                "id_norma_superior": "80",
+                "norma_superior": "Decreto Nº 1.026 de 1969 del Ministerio de Obras Públicas, que reserva aguas subterráneas de la zona de la Concordia, comuna y provincia de Arica, de la XV Región de Arica y Parinacota"
+            },
+            "93": {
+                "id_norma_superior": "93",
+                "norma_superior": ""
+            },
+            "2": {
+                "id_norma_superior": "2",
+                "norma_superior": "Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado"
+            },
+            "104": {
+                "id_norma_superior": "104",
+                "norma_superior": ""
+            },
+            "97": {
+                "id_norma_superior": "97",
+                "norma_superior": ""
+            },
+            "71": {
+                "id_norma_superior": "71",
+                "norma_superior": "Decreto con Fuerza de Ley Nº 850 de 1997 del Ministerio de Obras Públicas"
+            },
+            "102": {
+                "id_norma_superior": "102",
+                "norma_superior": ""
+            },
+            "15": {
+                "id_norma_superior": "15",
+                "norma_superior": "Decreto ley Nº 2.222 de 1978 del Ministerio de Defensa Nacional, Ley de Navegación"
+            },
+            "56": {
+                "id_norma_superior": "56",
+                "norma_superior": "Decreto con Fuerza de Ley Nº 5 de 1983"
+            },
+            "27": {
+                "id_norma_superior": "27",
+                "norma_superior": "DS Nº 290 del Ministerio de Economía, Fomento y Reconstrucción"
+            },
+            "70": {
+                "id_norma_superior": "70",
+                "norma_superior": "Decreto Supremo Nº 1873 de 2017 del Ministerio del Interior y Seguridad Pública"
+            },
+            "86": {
+                "id_norma_superior": "86",
+                "norma_superior": "Decreto Supremo Nº 179 de 1984 del Ministerio de Economía, Fomento y Reconstrucción"
+            },
+            "14": {
+                "id_norma_superior": "14",
+                "norma_superior": "decreto supremo Nº 1.144 de 1998 de Obras Públicas"
+            },
+            "42": {
+                "id_norma_superior": "42",
+                "norma_superior": "Ley Nº 19.338"
+            },
+            "34": {
+                "id_norma_superior": "34",
+                "norma_superior": "Convenio para la Protección del Medio Ambiente y la Zona Costera del Pacífico Sudeste"
+            },
+            "24": {
+                "id_norma_superior": "24",
+                "norma_superior": "DS Nº 99 de 1988 del Ministerio de Economía, Fomento y Reconstrucción"
+            },
+            "3": {
+                "id_norma_superior": "3",
+                "norma_superior": "Código de Aguas"
+            },
+            "9": {
+                "id_norma_superior": "9",
+                "norma_superior": "Decreto con Fuerza de Ley Nº 382 de 1988, Ley General de Servicios Sanitarios"
+            },
+            "47": {
+                "id_norma_superior": "47",
+                "norma_superior": "Decreto con Fuerza de Ley N° 1.122 de 1981, ambos del Ministerio de Justicia"
+            },
+            "29": {
+                "id_norma_superior": "29",
+                "norma_superior": "DS Nº 499 de 1994 del Ministerio de Economía, Fomento y Reconstrucción"
+            },
+            "79": {
+                "id_norma_superior": "79",
+                "norma_superior": "Decreto con Fuerza de Ley Nº 206 de 1960"
+            },
+            "35": {
+                "id_norma_superior": "35",
+                "norma_superior": "Código Marítimo Internacional de Mercaderías Peligrosas"
+            },
+            "49": {
+                "id_norma_superior": "49",
+                "norma_superior": "ley 19.799, Sobre Documentos Electrónicos, Firma Electrónica y Servicios de Certificación de dicha firma"
+            },
+            "88": {
+                "id_norma_superior": "88",
+                "norma_superior": ""
+            },
+            "60": {
+                "id_norma_superior": "60",
+                "norma_superior": "Decreto Supremo Nº 476 de 1995 del Ministerio de Defensa"
+            },
+            "110": {
+                "id_norma_superior": "110",
+                "norma_superior": ""
+            },
+            "16": {
+                "id_norma_superior": "16",
+                "norma_superior": "ley 18.902 que crea la Superintendencia de Servicios Sanitarios, modificada por la ley 19.290"
+            },
+            "95": {
+                "id_norma_superior": "95",
+                "norma_superior": ""
+            },
+            "51": {
+                "id_norma_superior": "51",
+                "norma_superior": "DS Nº81 de 2004, del Ministerio Secretaría General de la Presidencia, Sobre Interoperabilidad de Documentos Electrónicos"
+            },
+            "54": {
+                "id_norma_superior": "54",
+                "norma_superior": "Decreto Supremo 166 de 1999 del Ministerio Secretaría General de la Presidencia"
+            },
+            "1": {
+                "id_norma_superior": "1",
+                "norma_superior": "Constitución Política de la República de Chile"
+            },
+            "39": {
+                "id_norma_superior": "39",
+                "norma_superior": "Decreto con Fuerza de Ley Nº 237 de 1931"
+            },
+            "100": {
+                "id_norma_superior": "100",
+                "norma_superior": ""
+            },
+            "4": {
+                "id_norma_superior": "4",
+                "norma_superior": "Ley Nº 19.880, de Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado"
+            },
+            "98": {
+                "id_norma_superior": "98",
+                "norma_superior": ""
+            },
+            "50": {
+                "id_norma_superior": "50",
+                "norma_superior": "DS Nº181 de 2002, del Ministerio de Economía, Fomento y Reconstrucción que Aprueba Reglamento de la Ley 19.799 Sobre Documentos Electrónicos, Firma Electrónica y la Certificación de dicha Firma"
+            },
+            "12": {
+                "id_norma_superior": "12",
+                "norma_superior": "DS Nº 38, de 2012, del Ministerio del Medio Ambiente, que establece el Reglamento para la Dictación de Normas de Calidad Ambiental y de Emisión"
+            },
+            "45": {
+                "id_norma_superior": "45",
+                "norma_superior": "D.F.L. N° 1.123 de 1981, del Ministerio de Justicia"
+            },
+            "57": {
+                "id_norma_superior": "57",
+                "norma_superior": "Decreto Supremo Nº 430 de 1991 del Ministerio de Economía, Fomento y Reconstrucción"
+            },
+            "67": {
+                "id_norma_superior": "67",
+                "norma_superior": "Ley Nº 18.681"
+            },
+            "33": {
+                "id_norma_superior": "33",
+                "norma_superior": "Convenio Internacional sobre la Seguridad de la Vida Humana en el Mar"
+            },
+            "66": {
+                "id_norma_superior": "66",
+                "norma_superior": "Decreto Supremo Nº 1583 de 1992 del Ministerio de Salud"
+            },
+            "63": {
+                "id_norma_superior": "63",
+                "norma_superior": "Decreto con Fuerza de Ley Nº 34 de 1931"
+            },
+            "40": {
+                "id_norma_superior": "40",
+                "norma_superior": "ley Nº 18.778, modificada por las leyes Nº 18.899"
+            },
+            "103": {
+                "id_norma_superior": "103",
+                "norma_superior": ""
+            },
+            "6": {
+                "id_norma_superior": "6",
+                "norma_superior": "ley Nº 19.300 sobre Bases Generales del Medio Ambiente"
+            },
+            "36": {
+                "id_norma_superior": "36",
+                "norma_superior": "decreto M.O.P. Nº294, de 1984, que fija el texto actualizado, coordinado y sistematizado de la ley Nº15.840, Orgánica del Ministerio de Obras Públicas;"
+            },
+            "64": {
+                "id_norma_superior": "64",
+                "norma_superior": "Decreto con Fuerza de Ley Nº 4 de 2010 del Ministerio Secretaría General de la Presidencia"
+            },
+            "105": {
+                "id_norma_superior": "105",
+                "norma_superior": ""
+            },
+            "43": {
+                "id_norma_superior": "43",
+                "norma_superior": "DS Nº 529 de 1991 del Ministerio de Hacienda"
+            },
+            "69": {
+                "id_norma_superior": "69",
+                "norma_superior": "Decreto Supremo Nº 19 de 2001 del Ministerio Secretaría General de la Presidencia"
+            },
+            "5": {
+                "id_norma_superior": "5",
+                "norma_superior": "D.S. Nº 93 de 1995, del Ministerio Secretaría General de la Presidencia, Reglamento para la Dictación de Normas de Calidad Ambiental y de Emisión"
+            },
+            "82": {
+                "id_norma_superior": "82",
+                "norma_superior": "Decreto Ley N° 3.557 de 1980, que establece disposiciones sobre Protección Agrícola"
+            },
+            "85": {
+                "id_norma_superior": "85",
+                "norma_superior": "Ley\t18.450"
+            },
+            "72": {
+                "id_norma_superior": "72",
+                "norma_superior": "Decreto Supremo Nº 104 de 1977 del Ministerio del Interior y Seguridad Pública"
+            },
+            "21": {
+                "id_norma_superior": "21",
+                "norma_superior": "D.S. Nº 30 de 1997 del MINSEGPRES"
+            },
+            "101": {
+                "id_norma_superior": "101",
+                "norma_superior": ""
+            },
+            "26": {
+                "id_norma_superior": "26",
+                "norma_superior": "DS Nº 550 de 1992 del Ministerio de Economía, Fomento y Reconstrucción"
+            },
+            "68": {
+                "id_norma_superior": "68",
+                "norma_superior": "Ley N° 18.591"
+            },
+            "58": {
+                "id_norma_superior": "58",
+                "norma_superior": "Decreto con Fuerza de Ley Nº 340 de 1960 del Ministerio de Defensa"
+            },
+            "11": {
+                "id_norma_superior": "11",
+                "norma_superior": "Decreto supremo Nº 351, de 1992 de Obras Públicas, Reglamento para la neutralización y/o depuración de los residuos líquidos provenientes de establecimientos industriales"
+            },
+            "76": {
+                "id_norma_superior": "76",
+                "norma_superior": "Ley\t20.099"
+            },
+            "23": {
+                "id_norma_superior": "23",
+                "norma_superior": "DS Nº 175 de 1980 del Ministerio de Economía, Fomento y Reconstrucción"
+            },
+            "41": {
+                "id_norma_superior": "41",
+                "norma_superior": "Ley  Nº 19.059"
+            },
+            "7": {
+                "id_norma_superior": "7",
+                "norma_superior": "la ley 3.133 sobre Neutralización de los Residuos Provenientes de Establecimientos Industriales"
+            },
+            "90": {
+                "id_norma_superior": "90",
+                "norma_superior": ""
+            },
+            "108": {
+                "id_norma_superior": "108",
+                "norma_superior": ""
+            },
+            "111": {
+                "id_norma_superior": "111",
+                "norma_superior": ""
+            },
+            "52": {
+                "id_norma_superior": "52",
+                "norma_superior": "ley 20.285 Sobre Acceso a la información pública"
+            },
+            "22": {
+                "id_norma_superior": "22",
+                "norma_superior": "D.S. Nº 90 de 2000 del MINSEGPRES"
+            },
+            "32": {
+                "id_norma_superior": "32",
+                "norma_superior": "Convenio sobre Prevención de la Contaminación del Mar por Vertimiento de Desechos y Otras Materias"
+            },
+            "109": {
+                "id_norma_superior": "109",
+                "norma_superior": ""
+            },
+            "59": {
+                "id_norma_superior": "59",
+                "norma_superior": "Decreto Supremo Nº 660 de 1960 del Ministerio de Defensa"
+            },
+            "31": {
+                "id_norma_superior": "31",
+                "norma_superior": "Convenio Internacional para Prevenir la Contaminación de las Aguas del Mar de Hidrocarburos, de 195"
+            },
+            "10": {
+                "id_norma_superior": "10",
+                "norma_superior": "Decreto con Fuerza de Ley Nº 70 de 1988 sobre Fijación de Tarifas de Servicios de Agua Potable y Alcantarillado"
+            },
+            "87": {
+                "id_norma_superior": "87",
+                "norma_superior": "Decreto Supremo Nº 98 de 2010 del Ministerio de Agricultura"
+            },
+            "30": {
+                "id_norma_superior": "30",
+                "norma_superior": "DS Nº 604 de 1994 del Ministerio de Economía, Fomento y Reconstrucción"
+            },
+            "13": {
+                "id_norma_superior": "13",
+                "norma_superior": "decreto supremo Nº 745 de 1992 de Salud, sobre condiciones sanitarias y ambientales básicas en los lugares de trabajo"
+            },
+            "44": {
+                "id_norma_superior": "44",
+                "norma_superior": "decreto ley Nº 2.763, de 1979"
+            },
+            "62": {
+                "id_norma_superior": "62",
+                "norma_superior": "Decreto Supremo Nº144 de 1961 del Ministerio de Salud"
+            },
+            "25": {
+                "id_norma_superior": "25",
+                "norma_superior": "DS Nº 427 de 1989 del Ministerio de Economía, Fomento y Reconstrucción"
+            },
+            "106": {
+                "id_norma_superior": "106",
+                "norma_superior": ""
+            },
+            "94": {
+                "id_norma_superior": "94",
+                "norma_superior": ""
+            },
+            "28": {
+                "id_norma_superior": "28",
+                "norma_superior": "D.S. N° 1 de 1992 del Ministerio de Defensa Nacional"
+            },
+            "55": {
+                "id_norma_superior": "55",
+                "norma_superior": "Ley\t19.849\t"
+            },
+            "19": {
+                "id_norma_superior": "19",
+                "norma_superior": "Ley General de Pesca y Acuicultura, Nº 18.892"
+            },
+            "78": {
+                "id_norma_superior": "78",
+                "norma_superior": "Ley\t20.491"
+            },
+            "84": {
+                "id_norma_superior": "84",
+                "norma_superior": "Decreto con Fuerza de Ley N° 7 de 1983 del Ministerio de Economía, Fomento y Reconstrucción"
+            },
+            "46": {
+                "id_norma_superior": "46",
+                "norma_superior": "Decreto ley N° 1.172, de 1975, cuyo texto refundido fue fijado por el Decreto con Fuerza de Ley N° 7, de 1983, del Ministerio de Economía, Fomento y Reconstrucción"
+            },
+            "73": {
+                "id_norma_superior": "73",
+                "norma_superior": "Decreto Supremo Nº 11 de 1998"
+            },
+            "96": {
+                "id_norma_superior": "96",
+                "norma_superior": ""
+            },
+            "8": {
+                "id_norma_superior": "8",
+                "norma_superior": "Decreto con Fuerza de Ley Nº 725 de 1968, Código Sanitario"
+            },
+            "37": {
+                "id_norma_superior": "37",
+                "norma_superior": "Decreto con Fuerza de Ley N° 292 de 1953 del Ministerio de Hacienda"
+            },
+            "91": {
+                "id_norma_superior": "91",
+                "norma_superior": ""
+            },
+            "99": {
+                "id_norma_superior": "99",
+                "norma_superior": ""
+            },
+            "107": {
+                "id_norma_superior": "107",
+                "norma_superior": ""
+            }
+        },
+        "materia": {
+            "12": {
+                "id_materia": "12",
+                "materia": "Infracciones"
+            },
+            "5": {
+                "id_materia": "5",
+                "materia": "Agua potable"
+            },
+            "15": {
+                "id_materia": "15",
+                "materia": "Educación"
+            },
+            "9": {
+                "id_materia": "9",
+                "materia": "Institucionalidad"
+            },
+            "14": {
+                "id_materia": "14",
+                "materia": "Medio ambiente/protección"
+            },
+            "2": {
+                "id_materia": "2",
+                "materia": "Riego"
+            },
+            "10": {
+                "id_materia": "10",
+                "materia": "Tarifas/Pagos"
+            },
+            "1": {
+                "id_materia": "1",
+                "materia": "Registro y regulación"
+            },
+            "3": {
+                "id_materia": "3",
+                "materia": "Estado"
+            },
+            "6": {
+                "id_materia": "6",
+                "materia": "Instalaciones Sanitarias"
+            },
+            "8": {
+                "id_materia": "8",
+                "materia": "Calidad"
+            },
+            "13": {
+                "id_materia": "13",
+                "materia": "Aprovechamiento de agua"
+            },
+            "11": {
+                "id_materia": "11",
+                "materia": "Inversión privada"
+            },
+            "4": {
+                "id_materia": "4",
+                "materia": "Aguas termales/minerales"
+            },
+            "7": {
+                "id_materia": "7",
+                "materia": "Alcantarillado-Aguas servidas"
+            }
+        },
+        "tipo_norma": {
+            "1": {
+                "id_norma": "1",
+                "tipo_norma": "Decreto"
+            },
+            "3": {
+                "id_norma": "3",
+                "tipo_norma": "Ley"
+            },
+            "2": {
+                "id_norma": "2",
+                "tipo_norma": "Decreto con Fuerza de Ley"
+            }
+        }
+    }
+}

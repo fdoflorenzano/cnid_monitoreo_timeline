@@ -1,0 +1,94 @@
+@font-face {
+    font-family: sourceBold;
+    src: url(fonts/SourceSansPro-Bold.otf);
+}
+
+@font-face {
+    font-family: sourceBlack;
+    src: url(fonts/SourceSansPro-Black.otf);
+}
+
+@font-face {
+    font-family: sourceSemi;
+    src: url(fonts/SourceSansPro-Semibold.ttf);
+}
+
+@font-face {
+    font-family: source;
+    src: url(fonts/SourceSansPro-Regular.otf);
+}
+
+@font-face {
+    font-family: alegreya;
+    src: url(fonts/Alegreya-Regular.ttf);
+}
+
+@font-face {
+    font-family: alegreyaIt;
+    src: url(fonts/Alegreya-Italic.ttf);
+}
+
+body {
+    font-family: sans-serif;
+}
+
+div.tooltip {
+    position: absolute;
+    background: white;
+    border: 0px;
+    border-radius: 8px;
+    text-align: left;
+    opacity: 0;
+    font-size: 15px;
+    font-family: sourceSemi, 'sans-serif';
+    max-width: 300px;
+}
+
+div.tooltip.appear {
+    opacity: 0.9;
+}
+
+div.matter_menu {
+    font-family: sourceSemi, 'sans-serif';
+}
+
+.label text {
+    font-family: sourceSemi, 'sans-serif';
+}
+
+.row2 {
+    display: flex;
+    flex-direction: row;
+}
+
+.row2 div.info_panel {
+    flex: 1;
+    font-family: sourceSemi, 'sans-serif';
+}
+
+.row2 div.intitution_menu {
+    flex: 1;
+    font-family: sourceSemi, 'sans-serif';
+}
+
+.matter_menu .tag {
+    background: magenta;
+    color: white;
+    padding: 5px;
+    border-radius: 2px;
+    margin: 2px;
+    display: inline-block;
+}
+
+.intitution_menu .tag {
+    background: #6330b4;
+    color: white;
+    padding: 5px;
+    border-radius: 2px;
+    margin: 2px;
+    display: inline-block;
+}
+
+.notselected {
+    opacity: 0.5;
+}
