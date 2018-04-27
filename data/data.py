@@ -77,5 +77,13 @@ for name in dict_data_names:
     data['dicts'][name] = JSONtoDict(loadJSON(rootDir + name + '.json'),
                                         dict_data_ids[name])
 
+for organismo_id in data['dicts']['organismo'].keys():
+    is_present = False
+    for leg in data['data']:
+        if organismo_id == leg['ministry']:
+            is_present = True
+    data['dicts']['organismo'][organismo_id]['hasLegislation'] = is_present
+
+
 with open('.\\output\\data.json', 'w', encoding="utf-8") as file:
     json.dump(data, file, ensure_ascii=False)
